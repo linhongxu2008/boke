@@ -84,3 +84,13 @@ button{
 #mainin::-webkit-scrollbar{
 	display: none;
 }
+
+.red{
+	color: red;
+}
+.blue{
+	color: blue;
+}
+.lightblue{
+	color: aqua;
+}
