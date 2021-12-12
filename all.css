@@ -66,3 +66,21 @@ button{
 	transform:scale(1.1);
 	width:100%;z-index:-1
 }
+
+.center{
+	text-align: center;
+}
+
+#aone{
+	display: block;
+	color: #000000;
+	text-decoration-line: none;
+}
+
+#mainin{
+	width: 69vw;
+	height: 94.5vh;
+}
+#mainin::-webkit-scrollbar{
+	display: none;
+}
